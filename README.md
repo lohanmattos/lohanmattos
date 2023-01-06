@@ -1,5 +1,7 @@
   # Hi, Lohan Amendola 
   
+  ## Sou criativo e busco sempre trazer facilidade para meus companheiros de trabalho através de pequenos projetos utilizando diversos meios tecnológicos gratuitos com objetivo de facilitar o trabalho . Busco sempre aprender as principais tecnologias do mercado e aplicar os conhecimentos adquiridos em pequenos projetos úteis no dia a dia.
+  
   name       = '✍️ Lohan Amendola';</br>
   age        = '👱‍ 26 years'; </br>
   location   = '🏠 Sinop, MT - Brazil';                                                                    
