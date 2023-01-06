@@ -1,4 +1,6 @@
   # Olá, Lohan Amendola. 
+  
+  [linkedin](https://www.linkedin.com/in/lohan-amendola-a09b93154/)
     
   Nome                    = '✍️ Lohan Amendola';</br>
   Idade                   = '👱‍ 26 anos'; </br>
@@ -6,6 +8,9 @@
   Ocupação                = '👨‍🏫 Desenvolverdor Full Stack';</br>
   Estudando               = '💻 Cursando Graduação em Sistemas de Informação, atualmente no 6º periodo';</br>
   Tecnologias utilizadas: = '🎯 TypeScript, JavaScript, NodeJs, ReactJs';</br>
+  
+  
+  
 
 <!---
 lohanmattos/lohanmattos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
