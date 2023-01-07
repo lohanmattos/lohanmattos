@@ -1,20 +1,21 @@
   # Lohan Amendola. 
+
+ Seja bem-vindo ao meu repositório, aqui compartinho um pouco dos meus conhecimentos, através de projeto desenvolvidos durantes os treinamentos ao longo da minha jornadada de desenvolvedor web. 
   
-Seja bem-vindo ao meu repositório, aqui compartinho um pouco dos meus conhecimentos, através de projeto desenvolvidos durantes os treinamentos ao longo da minha jornadada de desenvolvedor web. 
+ 
   
-  <a href="https://www.linkedin.com/in/lohan-amendola-a09b93154/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Lohan Amendola-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-  </a>
     
   Nome                    = '✍️ Lohan Amendola';</br>
   Ocupação                = '👨‍🏫 Sargento Especialista em Eletrônica - Força Aérea Brasileira';</br>
   Idade                   = '👱‍ 26 anos'; </br>
   Localização             = '🏠 Sinop, MT - Brazil';                                                                    
   Estudando               = '💻 Cursando Graduação em Sistemas de Informação, atualmente no 6º periodo';</br>
-  
  
-  
- ## 🛠 &nbsp;Tech Stack
+ ## Redes Sociais
+ 
+<a href="https://www.linkedin.com/in/lohan-amendola-a09b93154/" target="_blank"><img align="center" src="https://img.shields.io/badge/-Lohan Amendola-05122A?style=flat&logo=linkedin" alt="linkedin"/></a>
+ 
+ ## Tecnologias Utilizadas
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
