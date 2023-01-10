@@ -1,6 +1,6 @@
-  # Lohan Amendola. 
+  # Lohan Amendola
 
- Seja bem-vindo ao meu repositório, aqui compartinho um pouco dos meus conhecimentos, através de projeto desenvolvidos durantes os treinamentos ao longo da minha jornadada de desenvolvedor web. 
+ Seja bem-vindo ao meu repositório, aqui compartilho um pouco dos meus conhecimentos, através de projetos desenvolvidos durante os treinamentos ao longo da minha jornadada de desenvolvedor web. 
   
  
   
