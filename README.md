@@ -1,15 +1,14 @@
   # Lohan Amendola
 
  Seja bem-vindo ao meu repositório, aqui compartilho um pouco dos meus conhecimentos, através de projetos desenvolvidos durante os treinamentos ao longo da minha jornadada de desenvolvedor web. 
-  
- 
-  
     
   Nome                    = '✍️ Lohan Amendola';</br>
   Ocupação                = '👨‍🏫 Sargento Especialista em Eletrônica - Força Aérea Brasileira';</br>
-  Idade                   = '👱‍ 26 anos'; </br>
+  Idade                   = '👱‍ 27 anos'; </br>
   Localização             = '🏠 Sinop, MT - Brazil';                                                                    
   Estudando               = '💻 Cursando Graduação em Sistemas de Informação, atualmente no 6º periodo';</br>
+  Target                  = 'Desenvolver habilidades tecnologicas para empregar na construção de sistemas web'</br>
+  Hobby                   = 'Família e Programação'</br> 
  
  ## Redes Sociais
  
