@@ -7,8 +7,8 @@
   Idade                   = '👱‍ 27 anos'; </br>
   Localização             = '🏠 Sinop, MT - Brazil';                                                                    
   Estudando               = '💻 Cursando Graduação em Sistemas de Informação, atualmente no 6º periodo';</br>
-  Target                  = 'Desenvolver habilidades tecnologicas para empregar na construção de sistemas web'</br>
-  Hobby                   = 'Família e Programação'</br> 
+  Target                  = 'Desenvolver habilidades tecnologicas para empregar na construção de sistemas web';</br>
+  Hobby                   = 'Família e Programação'.</br> 
  
  ## Redes Sociais
  
