@@ -12,7 +12,7 @@
  ## Redes Sociais
  
 <a href="https://www.linkedin.com/in/lohan-amendola-a09b93154/" target="_blank"><img align="center" src="https://img.shields.io/badge/-Lohan Amendola-05122A?style=flat&logo=linkedin" alt="linkedin"/></a>
-<a href="https://lohanamendola.framer.ai" target="_blank"><img align="center" src="https://img.shields.io/badge/-SeuSite-05122A?style=flat&logo=world&logoColor=white" alt="website"/></a>
+<a href="https://lohanamendola.framer.ai" target="_blank"><img align="center" src="https://img.shields.io/badge/-Meu%20Site-05122A?style=flat&logo=globe&logoColor=white" alt="website"/></a>
 
 
 <!---
